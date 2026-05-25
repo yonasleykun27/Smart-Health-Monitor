@@ -1,6 +1,6 @@
 import torch
 from torch.utils.data import DataLoader, TensorDataset
-import config
+from src import config
 
 def get_pytorch_loaders(X_train, X_test, y_train, y_test):
     # Convert to Tensors

@@ -3,7 +3,7 @@ import numpy as np
 import os
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, LabelEncoder
-import config
+from src import config
 
 def full_preprocessing_and_save(file_path=config.DATA_PATH, output_dir=config.PROCESSED_DATA_DIR):
     """

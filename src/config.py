@@ -1,8 +1,8 @@
 # Configuration for the Health Monitoring Project
 
 # File paths
-DATA_PATH = './data/smart_healthcare_dataset(1).csv'
-PROCESSED_DATA_DIR = './data/processed/'
+DATA_PATH = '../data/smart_healthcare_dataset(1).csv'
+PROCESSED_DATA_DIR = '../data/processed/'
 
 # Features to drop during training
 DROP_COLUMNS = ['heart_disease', 'diabetes', 'stroke', 'health_risk_score']
