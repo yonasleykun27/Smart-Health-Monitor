@@ -1,6 +1,6 @@
 # Smart Health Monitor
 
-Smart Health Monitor is a polished, public-ready README describing a small, reproducible project built to demonstrate data preprocessing, exploratory analysis, model development, and a safe inference API for educational review.
+Smart Health Monitor is a lightweight and reproducible healthcare machine learning project designed to demonstrate data preprocessing, exploratory data analysis, deep learning model development, and a secure inference API for educational and research purposes.
 
 ## How this repo maps to the assessment criteria
 
