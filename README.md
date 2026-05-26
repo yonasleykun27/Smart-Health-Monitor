@@ -68,4 +68,4 @@ python app.py
 - For questions, open an issue or contact: https://github.com/yonasleykun27
 
 
-If you want, I can generate a one-page PDF brief or a short slide deck (4–6 slides) from this README and add it to the repository.
+
