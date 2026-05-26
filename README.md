@@ -53,11 +53,6 @@ python app.py
 
 ---
 
-## What to check before publishing publicly
-
-- Remove or exclude raw datasets and any model artifacts containing sensitive information.
-- Prefer synthetic or small sample data for public demos. Use Git LFS for large model files if needed.
-
 ## Privacy & responsible use
 
 - This project is an educational prototype and is not clinically validated. Do not use it for clinical decision-making.
