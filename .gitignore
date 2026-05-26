@@ -1,0 +1,25 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Data and models
+data/
+models/
+*.npy
+*.pth
+
+# Jupyter
+.ipynb_checkpoints
+
+# Node
+node_modules/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
